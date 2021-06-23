@@ -1,4 +1,6 @@
 # Snake-Game
-A Snake Game using HTML, CSS and JavaScript.
-Implementation of object-oriented concepts.
-Used array data structure
+<ul>
+<li>A Snake Game using HTML, CSS and JavaScript</li>
+<li>Implemented object-oriented concepts</li>
+<li>Used array data structure</li>
+</ul>
